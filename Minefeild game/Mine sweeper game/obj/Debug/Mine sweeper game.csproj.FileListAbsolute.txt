@@ -1,0 +1,8 @@
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\obj\Debug\Mine sweeper game.csprojResolveAssemblyReference.cache
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\obj\Debug\Mine_sweeper_game.MainForm.resources
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\obj\Debug\Mine sweeper game.csproj.GenerateResource.Cache
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\bin\Debug\Mine sweeper game.exe.config
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\bin\Debug\Mine sweeper game.exe
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\bin\Debug\Mine sweeper game.pdb
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\obj\Debug\Mine sweeper game.exe
+C:\Users\Salman-pc\Documents\SharpDevelop Projects\Mine sweeper game\Mine sweeper game\obj\Debug\Mine sweeper game.pdb
